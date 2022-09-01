@@ -9,13 +9,8 @@
 ## What is the Scaler September Open Source Challenge?
 Link for [Notion page](https://scalerdiscord.notion.site/scalerdiscord/Open-Source-September-Scaler-Discord-Community-f9306c7dc15a464ba1b6ea7ee30cdf0d).
 
-<<<<<<< HEAD
 Every day throughout September, for those who have enrolled, we will share one task.
 Participants will need to use their knowledge of Git and GitHub for each task, and the difficulty level of the tasks will rise daily.
-=======
-Every day throughout September, for those who have enrolled, we will share one task. 
-Participants will need to use their knowledge of Git and Github for each task, and the difficulty level of the tasks will rise daily.
->>>>>>> 29fdd2a (Make final update to ReadME)
 
 The primary objective? To help the community become better at contributing to open source and building projects.
 
