@@ -18,9 +18,6 @@ The primary objective? To help the community become better at contributing to op
 1. Learn how to contribute to open source projects. Learn the basics of creating issues, pull requests, Git and Github
 2. Celebrate with new rewards every time you reach a milestone!
 
-## How to participate?
-
-### Step 1
 
 Accept the challenge by filling out this form: [https://bit.ly/opensourcesepbyscaler](https://bit.ly/opensourcesepbyscaler) 
 
@@ -39,15 +36,6 @@ Please go through the task for that day and solve it.
 ### Step 4
 
 Don't forget to share your progress within the community if you want those rewards!
-
-## Prizes
-Consistency is what we're after. As a result, we have several levels or awards based on how consistently you complete the assignments.
-You won't be qualified for the remaining tasks of the challenge if you are unable to complete and submit a task on any given day.
-
-Here is the reward [tier list](https://scalerdiscord.notion.site/3eabe9a1900c4b8685ae55acb5c33cbe?v=001e8d4c287f4d96bae935c5d45de521).
-
-## Contact Us
-For all communications and queries, you can join our [Discord Server](https://discord.com/invite/scaler).
 
 ## Resources
 1. Launch Video for the September Challenge: [Guide to Github and the Open Source Challenge](https://youtu.be/70nx_YxE56Q)
