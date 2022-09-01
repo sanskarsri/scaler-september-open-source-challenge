@@ -50,11 +50,8 @@ Here is the reward [tier list](https://scalerdiscord.notion.site/3eabe9a1900c4b8
 For all communications and queries, you can join our [Discord Server](https://discord.com/invite/scaler).
 
 ## Resources
-<<<<<<< HEAD
 1. Launch Video for the September Challenge: [Guide to GitHub and the Open Source Challenge](https://youtu.be/70nx_YxE56Q)
 2. Git Tutorial: [Full Git Tutorial](https://www.youtube.com/watch?v=ZtfZGVQWjew)
 3. Find good first issues to contribute to: [Good First issues](https://goodfirstissue.dev/)
 4. Getting started with GitHub: [All you need to know about GitHub](https://www.youtube.com/watch?v=8WYXWs96xxc)
 5. How to contribute to Open Source: [Open Source contribution guide](https://www.youtube.com/watch?v=ABty2r3nDyU)
-=======
->>>>>>> 40e3697 (Update details)
