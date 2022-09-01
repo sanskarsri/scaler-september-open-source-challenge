@@ -40,11 +40,6 @@ Please go through the task for that day and solve it.
 
 Don't forget to share your progress within the community if you want those rewards!
 
-=======
-1. Learn how to contribute to open source projects. Learn the basics of creating issues, pull requests, Git and Github
-2. Celebrate with new rewards every time you reach a milestone!
-
->>>>>>> 40e3697 (Update details)
 ## Prizes
 Consistency is what we're after. As a result, we have several levels or awards based on how consistently you complete the assignments.
 You won't be qualified for the remaining tasks of the challenge if you are unable to complete and submit a task on any given day.
