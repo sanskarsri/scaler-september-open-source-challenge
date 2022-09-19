@@ -18,9 +18,12 @@ The primary objective? To help the community become better at contributing to op
 1. Learn how to contribute to open source projects. Learn the basics of creating issues, pull requests, Git and Github
 2. Celebrate with new rewards every time you reach a milestone!
 
+<<<<<<< HEAD
 ## How to participate?
 
 ### Step 1
+=======
+>>>>>>> 2dfdcb2 (Squashed commits)
 
 Accept the challenge by filling out this form: [https://bit.ly/opensourcesepbyscaler](https://bit.ly/opensourcesepbyscaler) 
 
